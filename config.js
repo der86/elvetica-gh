@@ -1,4 +1,4 @@
-function testOne() {
-    return ("learning about github");
-}
-console.log(testOne);
+var carList = ["BMW", "TOYOTA", "LEXUS"];
+console.log(
+    carList
+)
